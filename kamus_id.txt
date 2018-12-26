@@ -3025,7 +3025,10 @@ kausal
 kaustik
 kawak
 kaya
+<<<<<<< HEAD
 ke
+=======
+>>>>>>> 8ac95b817ca8bde197fb1e9347fa2f847af35114
 kebah
 kebal
 kebas
