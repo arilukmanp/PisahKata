@@ -1,4 +1,5 @@
 di
+aku
 dan
 ke
 siapa
@@ -366,6 +367,7 @@ paham
 terima
 terimakasih
 seharusnya
+makan
 hasil
 kirim
 the
@@ -11965,6 +11967,12 @@ warrant
 auxiliary
 modeling
 rev
+ayam
+bebek
+goreng
+bakar
+panggang
+ikan
 displaying
 thermometer
 logan
