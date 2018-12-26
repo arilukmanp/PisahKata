@@ -72,16 +72,12 @@ lbl.place(x=125, y=20)
 entry = Text(root, width=47, height=3)
 entry.place(x=10, y=43)
 
-<<<<<<< HEAD
 try:
     # for Python2
     option = apply(OptionMenu, (root, dictionaryVariable) + tuple(DICTIONARY_OPTIONS))
 except:
     # for Python3
     option = OptionMenu(*(root, dictionaryVariable) + tuple(DICTIONARY_OPTIONS))
-=======
-option = apply(OptionMenu, (root, dictionaryVariable) + tuple(DICTIONARY_OPTIONS))
->>>>>>> 8ac95b817ca8bde197fb1e9347fa2f847af35114
 option.place(x=40, y=130)
 dictionaryVariable.trace('w', reload_dictionary)
 
