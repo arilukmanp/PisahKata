@@ -2,6 +2,7 @@ ada
 adalah
 adanya
 adapun
+aditya
 agak
 agaknya
 agar
@@ -25,6 +26,7 @@ apabila
 apakah
 apalagi
 apatah
+ari
 artinya
 asal
 asalkan
@@ -357,6 +359,7 @@ lebih
 lewat
 lima
 luar
+lukman
 macam
 maka
 makanya
@@ -508,6 +511,7 @@ pukul
 pula
 pun
 punya
+purnawirawanto
 rasa
 rasanya
 rata
@@ -1246,6 +1250,7 @@ angker
 angkuh
 angler
 angot
+ani
 aniridia
 anja
 anom
@@ -1678,6 +1683,7 @@ buar
 buas
 bubung
 budek
+budi
 bugar
 bugil
 bujal
@@ -3023,6 +3029,10 @@ kausal
 kaustik
 kawak
 kaya
+<<<<<<< HEAD
+ke
+=======
+>>>>>>> 8ac95b817ca8bde197fb1e9347fa2f847af35114
 kebah
 kebal
 kebas
@@ -29452,6 +29462,7 @@ sendratari
 sendu
 senduduk
 senduk
+sendy
 Senen
 senewen
 seng
@@ -31227,6 +31238,7 @@ surut
 survei
 surya
 suryakanta
+suryana
 suryani
 sus
 susah
